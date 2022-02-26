@@ -4,7 +4,6 @@ import joblib
 def predict(user_inputs):
     # load model binaries 
     model = joblib.load("static/py/model.sav")
-    encoder = joblib.load("static/py/encoder.sav")
     X_scaler = joblib.load("static/py/x_scaler.sav")
     y_scaler  = joblib.load("static/py/y_scaler.sav")
 
