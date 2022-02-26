@@ -1,0 +1,17 @@
+.box {
+  height: 50px;
+  padding: 20px;
+  color: white;
+  background: darkcyan;
+}
+
+.header {
+  height: 50px;
+  padding: 20px;
+  color: darkcyan;
+}
+
+h6 {
+  color: darkcyan;
+  text-indent: 80px;
+}
