@@ -6,6 +6,8 @@ The app is hosed on AWS using Elastic Beanstalk (ELB).
 
 # Repo structure
 
+```
+
 images/                                                        # contains images used for the README
 app/
     |__static
@@ -22,6 +24,8 @@ app/
 model/                                                        # contains machine learning notebook
 Resources/                                                    # contains raw data in CSV format
 tableau.csv                                                   # contains cleaned data in CSV format for visualization on Tableau
+
+```
 
 # Solution
 
