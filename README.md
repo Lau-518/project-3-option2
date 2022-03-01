@@ -35,7 +35,7 @@ The solution architecture diagram was created using: https://draw.io/
 
 Icons were taken from: https://www.flaticon/ and https://www.vecta.io/
 
-![images/solution_architecture_project3](images/solution_architecture_project3.png)
+![images/solution_architecture](images/solution_architecture.png)
 
 # Machine Learning Model
 
