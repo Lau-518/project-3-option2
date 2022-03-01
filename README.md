@@ -100,7 +100,7 @@ Note for Windows-only - You will need to install 7z (7-zip) which is a command l
 
 This will produce a `.zip` file which contains all the code and library packages required to run the app on AWS Lambda.  
 
-For re-use, we've stored the commands in [build.sh](app/build.sh) and [build.bat](app/build.bat) respectively. 
+For re-use, we've stored the commands in build.sh and build.bat respectively. 
 
 You can just build the app by running either 
 
