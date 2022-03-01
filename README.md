@@ -127,7 +127,7 @@ build.bat
         - Select "Local file" > "Choose file" and select the `.zip` file you have built 
     5. Select "Configure more options" 
         1. Select "Software" > "Edit"
-            - Provide the environment properties based on your environment variables in [_config.template.sh](app/_config.template.sh) or [_config.template.bat](app/_config.template.bat).
+            - Provide the environment properties based on your environment variables in config.template.sh or config.template.bat.
             - Select "Save" 
         2. Select "Capacity" > "Edit" 
             - Under "Instance types", ensure that only "t2.micro" is selected. 
